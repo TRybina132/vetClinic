@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T21:55:06.322Z" agent="5.0 (Windows)" etag="l7UYEi6voBQAkDvGLd9w" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T21:58:04.028Z" agent="5.0 (Windows)" etag="OZMb3rUrSLbf2eVI4MQH" version="17.5.0" type="github">
   <diagram id="YmJbUNZ7-ScvL3K1Ze7F" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="cwu9wlnUS9ruzqK-m6uW-53" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="cwu9wlnUS9ruzqK-m6uW-52">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwu9wlnUS9ruzqK-m6uW-54" value="Edit performed procedures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwu9wlnUS9ruzqK-m6uW-52">
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-54" value="&lt;div&gt;Edit &lt;br&gt;&lt;/div&gt;&lt;div&gt;patient&#39;s&lt;/div&gt;&lt;div&gt;performed procedures&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwu9wlnUS9ruzqK-m6uW-52">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwu9wlnUS9ruzqK-m6uW-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="cwu9wlnUS9ruzqK-m6uW-47" target="cwu9wlnUS9ruzqK-m6uW-50">
@@ -138,6 +138,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="765.97" y="220.00068965517244" as="sourcePoint" />
             <mxPoint x="610" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-57" value="&lt;div&gt;Register new &lt;br&gt;&lt;/div&gt;&lt;div&gt;employees&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-58" value="&lt;div&gt;Add new services&lt;/div&gt;&lt;div&gt;and procedures&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-60" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="cwu9wlnUS9ruzqK-m6uW-57" target="cwu9wlnUS9ruzqK-m6uW-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="sourcePoint" />
+            <mxPoint x="740" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cwu9wlnUS9ruzqK-m6uW-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cwu9wlnUS9ruzqK-m6uW-58" target="cwu9wlnUS9ruzqK-m6uW-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660.0026103092151" y="412.7556433814471" as="sourcePoint" />
+            <mxPoint x="750.43" y="407.239090909091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
